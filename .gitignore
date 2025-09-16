@@ -1,7 +1,5 @@
+.venv/
+src/camp.egg-info/
 __pycache__/
-*.pyc
-.pytest_cache/
-.vscode/settings.json
-*.log
-data/raw/
-.env
+.ipynb_checkpoints/
+.DS_Store

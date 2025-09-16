@@ -1,7 +1,10 @@
 pandas>=1.5.0
 numpy>=1.20.0
-matplotlib>=3.5.0
-seaborn>=0.11.0
-pyreadstat>=1.1.0
-jupyter>=1.0.0
--e ./camp
+pandas==1.5.3
+numpy==1.26.4
+scipy==1.11.4
+seaborn==0.13.2
+pyreadstat==1.2.7
+jupyter==1.0.0
+statsmodels==0.14.2
+-e .
